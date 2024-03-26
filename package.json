@@ -1,0 +1,17 @@
+{
+  "name": "proyek-pendaftaran",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.19.2",
+    "jest": "^29.7.0",
+    "supertest": "^6.3.4"
+  }
+}
